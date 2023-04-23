@@ -7,6 +7,7 @@ const Product = (props) => {
             <div className='p-3 border bg-light'>
                 <h2>{title}</h2>
                 <p>{sku}</p>
+
             </div>
         </div>
     )
